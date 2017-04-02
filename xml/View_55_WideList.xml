@@ -63,7 +63,7 @@
 						<right>40</right>
 						<align>right</align>
 						<aligny>center</aligny>
-						<label>$VAR[ListLabel2Var]</label>
+						<label></label>
 						<shadowcolor>text_shadow</shadowcolor>
 					</control>
 				</focusedlayout>
@@ -103,7 +103,7 @@
 						<right>40</right>
 						<align>right</align>
 						<aligny>center</aligny>
-						<label>$VAR[ListLabel2Var]</label>
+						<label></label>
 						<shadowcolor>text_shadow</shadowcolor>
 					</control>
 					<control type="image">
@@ -191,7 +191,7 @@
 				<right>40</right>
 				<align>right</align>
 				<aligny>center</aligny>
-				<label>$INFO[ListItem.Label2]</label>
+                <label></label>
 				<shadowcolor>text_shadow</shadowcolor>
 			</control>
 		</focusedlayout>
@@ -210,7 +210,7 @@
 				<right>40</right>
 				<align>right</align>
 				<aligny>center</aligny>
-				<label>$INFO[ListItem.Label2]</label>
+                <label></label>
 				<textcolor>grey</textcolor>
 				<shadowcolor>text_shadow</shadowcolor>
 			</control>
